@@ -8,5 +8,11 @@
                          <h4> Pitch your idea to all types of investors through our platform with minimal steps and complete safety.</h4>
 
 
-
+<h2>How it works ? </h2>
+<h4> - 🔭 So you have got an idea ? </h4>
+<h4> - 🔭 Create a Project </h4>
+<h4> - 🔭 Tell your crowd </h4>
+<h4> - 🔭 The crowd pledges for the cash </h4>
+<h4> - 🔭 Crowd advertises the project among public. </h4>
+<h4> - 🔭 Turns idea into reality </h4>
 
